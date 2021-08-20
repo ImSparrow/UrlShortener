@@ -1,0 +1,24 @@
+.formInput {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 5px 5px black;
+  flex-direction: column;
+  margin-top: 20rem;
+  background-color: white;
+  border-radius: 25px;
+  padding:20px;
+}
+.box{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.label{
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+.input{
+  border: 1px solid #e5e5e5;
+}
